@@ -6,6 +6,7 @@ A client, Sellby, has requested the analysis of reviews of similar products sold
 Data
 * [Amazon Review Data](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 * [Amazon Beauty Review Data](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Beauty_v1_00.tsv.gz)
+
 Software:
 * AWS
 * Google Colab Notebook
